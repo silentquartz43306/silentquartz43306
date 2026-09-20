@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm silentquartz
 
-<!--
-**silentquartz43306/silentquartz43306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Just another developer figuring things out.
 
-Here are some ideas to get you started:
+### About me
+- Currently learning and building small projects in my free time
+- Interested in backend, automation, and clean code
+- Still early in the journey, so a lot of experiments here
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech stack
+- **Languages:** Python, JavaScript
+- **Tools:** Git, Linux, VS Code
+- **Others:** Exploring web stuff and scripting
+
+### Projects
+Nothing public yet — will update this section when something is ready to share.
+
+---
+
+Feel free to check back later or say hi.
